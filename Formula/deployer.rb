@@ -3,7 +3,7 @@ require File.expand_path("../../Abstract/abstract-php-phar", __FILE__)
 
 class Deployer < AbstractPhpPhar
   init
-  desc "A deployment tool written in PHP with support for popular frameworks out of the box."
+  desc "Deployment tool written in PHP with support for popular frameworks out of the box."
   homepage "https://deployer.org"
   url "https://deployer.org/releases/v4.3.0/deployer.phar"
   version "4.3.0"
